@@ -1,7 +1,7 @@
   .area{
-    width: 100vw;
+    width: 1000px;
     height: 600px;
-    background-color: antiquewhite;
+    background-color: light-grey;
   }
 
   .tennisBall{
